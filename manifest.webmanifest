@@ -1,0 +1,13 @@
+{
+  "name": "Family CFO",
+  "short_name": "Family CFO",
+  "description": "Household ledger — budgets, spending and goals from your own Google Sheet.",
+  "display": "standalone",
+  "background_color": "#070b14",
+  "theme_color": "#0b1220",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
